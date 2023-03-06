@@ -1,4 +1,6 @@
 {
     "foam.openDailyNote.directory": "202303",
-    "foam.openDailyNote.filenameFormat": "yyyymmdd"
+    "foam.openDailyNote.filenameFormat": "yyyymmdd",
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.path": "${currentFileDir}/res"
 }
